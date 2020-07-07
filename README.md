@@ -54,7 +54,7 @@ Pela plataforma web o prestador de serviços pode ver seus agendamentos, seus ho
 Já pelo aplicativo móvel o cliente consegue marcar, cancelar e consultar agendamentos com qualquer prestador cadastrado na plataforma, assim como editar seu perfil.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src="https://raw.githubusercontent.com/radaelilucca/ECokleta-NLW01/master/readme-assets/readme-example-image.png" width="900px" />
+    <img alt="Example" title="Example" src="https://github.com/radaelilucca/GoBarber-JavaScript/blob/master/ReadmeAssets/Gobarber%20readme.png?raw=true" width="900px" />
 </h1>
 
 ## :rocket: Tecnologias Utilizadas
