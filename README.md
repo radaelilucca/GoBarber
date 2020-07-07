@@ -76,7 +76,7 @@ Para baixar e executar esta aplicação você vai precisar de: [Git](https://git
 
 ### 🗄️ Executando a API (backend)
 
-<a href="https://insomnia.rest/run/?label=Ecoleta-nlw-radaelilucca&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fradaelilucca%2FEColketa-NLW01%2Fmaster%2Fbackend%2FInsomnia_ecoleta.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+<a href="https://insomnia.rest/run/?label=GoBarberApi-radaelilucca&uri=https%3A%2F%2Fhttps://raw.githubusercontent.com/radaelilucca/gobarber-backend/35a6fb9ac6332d5312606541088e12b4f56b8ab7/InsomniaWorkspace.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 
 ```bash
 # Clone este repositório:
